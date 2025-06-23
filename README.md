@@ -4,6 +4,8 @@
 
 LiterAlura é uma aplicação Java desenvolvida para explorar e registrar livros utilizando a API [Gutendex](https://gutendex.com/). O projeto permite buscar livros, listar autores, consultar estatísticas e gerenciar um banco de dados local com informações relevantes sobre literatura mundial.
 
+![badge-literalura](https://github.com/user-attachments/assets/821acc6f-c3a9-4999-90a9-51a7e0ab098e)
+
 </div>
 
 ## :gear: Funcionalidades
